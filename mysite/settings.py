@@ -25,7 +25,7 @@ SECRET_KEY = 'lwx3cfr9t5-h$2&yz46fi$cd83&(2u93aq_pik4!yq3spvg%da'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['hkjin.ddns.net', '211.48.82.118']
 
 
 # Application definition
